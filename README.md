@@ -1,23 +1,20 @@
 ### Hi there 👋
 
-<!--
-**kmilitagaitan/kmilitagaitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩‍💼 CEO at @Ideadup
+- 🔭 I’m currently working on Managerial Stuff at @Amazon
+- 🌱 I’m currently learning about Machine Learning and MLOps
+- 👯 I’m looking to collaborate on ML Projects (Computer Vision and NLP) / Mobile Projects (iOS - Hybrid) 
+- 🤔 I’m looking for help with MLOPs / Data Science 
+- 💬 Ask me about women in technology, inclusion topics, software engineering, humans management 
+- 📫 How to reach me: Email or <a href="https://www.linkedin.com/in/camila-gaitan-mosquera-14403931/?locale=en_US" target="blank">Linkedin</a>
+- 😄 Pronouns: she/her/her
+- ⚡ Fun fact: I love the italian food but I hate cheese 🧀
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### About my coding style 
 
 <div>
   <a href="https://github.com/kmilitagaitan">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kmilitagaitan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmilitagaitan&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kmilitagaitan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmilitagaitan&layout=compact&langs_count=10&theme=radical"/>
 </div>
