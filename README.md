@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩‍💼 CEO at @Ideadup
+- 👩‍💼 CEO at @IdeasUp
 - 🔭 I’m currently working on Managerial Stuff at @Amazon
 - 🌱 I’m currently learning about Machine Learning and MLOps
 - 👯 I’m looking to collaborate on ML Projects (Computer Vision and NLP) / Mobile Projects (iOS - Hybrid) 
